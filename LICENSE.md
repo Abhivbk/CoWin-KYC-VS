@@ -7,7 +7,7 @@ Copyright (C) 2021 AbHiK Inc.
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
 
-If anyone wants to use it for profitable or personal use than please contack us at our email.
+If anyone wants to use it for profitable or personal use than please contact us at our email.
 
 Author --> Abhinav Kulkarni
 Email --> abhivbk13@gmail.com
