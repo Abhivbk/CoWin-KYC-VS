@@ -9,8 +9,8 @@ license document, but changing it is not allowed.
 
 If anyone wants to use it for profitable or personal use than please contact us at our email.
 
-Author --> Abhinav Kulkarni
-Email --> abhivbk13@gmail.com
+- Author --> Abhinav Kulkarni
+- Email --> abhivbk13@gmail.com
 
 ### Preamble
 
